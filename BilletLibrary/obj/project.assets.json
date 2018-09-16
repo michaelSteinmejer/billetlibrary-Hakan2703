@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hakan\\source\\repos\\BilletLibrary\\BilletLibrary\\BilletLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\Hakan\\source\\repos\\Program\\BilletLibrary\\BilletLibrary\\BilletLibrary.csproj",
       "projectName": "BilletLibrary",
-      "projectPath": "C:\\Users\\Hakan\\source\\repos\\BilletLibrary\\BilletLibrary\\BilletLibrary.csproj",
+      "projectPath": "C:\\Users\\Hakan\\source\\repos\\Program\\BilletLibrary\\BilletLibrary\\BilletLibrary.csproj",
       "packagesPath": "C:\\Users\\Hakan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hakan\\source\\repos\\BilletLibrary\\BilletLibrary\\obj\\",
+      "outputPath": "C:\\Users\\Hakan\\source\\repos\\Program\\BilletLibrary\\BilletLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
