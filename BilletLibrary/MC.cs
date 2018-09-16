@@ -4,10 +4,10 @@ using System.Text;
 
 namespace BilletLibrary
 {
-    class MC
+    public class Mc
     {
 
-        public MC()
+        public Mc()
         {
             
         }

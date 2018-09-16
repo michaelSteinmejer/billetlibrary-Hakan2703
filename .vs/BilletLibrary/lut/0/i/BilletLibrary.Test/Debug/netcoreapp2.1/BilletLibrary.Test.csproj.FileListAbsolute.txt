@@ -1,0 +1,13 @@
+C:\Users\Hakan\source\repos\Program\BilletLibrary\.vs\BilletLibrary\lut\0\b\BilletLibrary.Test\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Hakan\source\repos\Program\BilletLibrary\.vs\BilletLibrary\lut\0\b\BilletLibrary.Test\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Hakan\source\repos\Program\BilletLibrary\.vs\BilletLibrary\lut\0\b\BilletLibrary.Test\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Hakan\source\repos\Program\BilletLibrary\.vs\BilletLibrary\lut\0\b\BilletLibrary.Test\Debug\netcoreapp2.1\BilletLibrary.Test.deps.json
+C:\Users\Hakan\source\repos\Program\BilletLibrary\.vs\BilletLibrary\lut\0\b\BilletLibrary.Test\Debug\netcoreapp2.1\BilletLibrary.Test.runtimeconfig.json
+C:\Users\Hakan\source\repos\Program\BilletLibrary\.vs\BilletLibrary\lut\0\b\BilletLibrary.Test\Debug\netcoreapp2.1\BilletLibrary.Test.runtimeconfig.dev.json
+C:\Users\Hakan\source\repos\Program\BilletLibrary\.vs\BilletLibrary\lut\0\b\BilletLibrary.Test\Debug\netcoreapp2.1\BilletLibrary.Test.dll
+C:\Users\Hakan\source\repos\Program\BilletLibrary\.vs\BilletLibrary\lut\0\i\BilletLibrary.Test\Debug\netcoreapp2.1\BilletLibrary.Test.csproj.CoreCompileInputs.cache
+C:\Users\Hakan\source\repos\Program\BilletLibrary\.vs\BilletLibrary\lut\0\i\BilletLibrary.Test\Debug\netcoreapp2.1\BilletLibrary.Test.AssemblyInfoInputs.cache
+C:\Users\Hakan\source\repos\Program\BilletLibrary\.vs\BilletLibrary\lut\0\i\BilletLibrary.Test\Debug\netcoreapp2.1\BilletLibrary.Test.AssemblyInfo.cs
+C:\Users\Hakan\source\repos\Program\BilletLibrary\.vs\BilletLibrary\lut\0\i\BilletLibrary.Test\Debug\netcoreapp2.1\BilletLibrary.Test.csproj.CopyComplete
+C:\Users\Hakan\source\repos\Program\BilletLibrary\.vs\BilletLibrary\lut\0\i\BilletLibrary.Test\Debug\netcoreapp2.1\BilletLibrary.Test.dll
+C:\Users\Hakan\source\repos\Program\BilletLibrary\.vs\BilletLibrary\lut\0\i\BilletLibrary.Test\Debug\netcoreapp2.1\BilletLibrary.Test.csprojAssemblyReference.cache

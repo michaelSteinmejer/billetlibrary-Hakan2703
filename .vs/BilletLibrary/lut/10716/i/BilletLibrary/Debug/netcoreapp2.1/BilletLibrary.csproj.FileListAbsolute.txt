@@ -1,0 +1,7 @@
+C:\Users\Hakan\source\repos\Program\BilletLibrary\.vs\BilletLibrary\lut\0\b\BilletLibrary\Debug\netcoreapp2.1\BilletLibrary.deps.json
+C:\Users\Hakan\source\repos\Program\BilletLibrary\.vs\BilletLibrary\lut\0\b\BilletLibrary\Debug\netcoreapp2.1\BilletLibrary.dll
+C:\Users\Hakan\source\repos\Program\BilletLibrary\.vs\BilletLibrary\lut\0\i\BilletLibrary\Debug\netcoreapp2.1\BilletLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Hakan\source\repos\Program\BilletLibrary\.vs\BilletLibrary\lut\0\i\BilletLibrary\Debug\netcoreapp2.1\BilletLibrary.AssemblyInfoInputs.cache
+C:\Users\Hakan\source\repos\Program\BilletLibrary\.vs\BilletLibrary\lut\0\i\BilletLibrary\Debug\netcoreapp2.1\BilletLibrary.AssemblyInfo.cs
+C:\Users\Hakan\source\repos\Program\BilletLibrary\.vs\BilletLibrary\lut\0\i\BilletLibrary\Debug\netcoreapp2.1\BilletLibrary.csproj.CopyComplete
+C:\Users\Hakan\source\repos\Program\BilletLibrary\.vs\BilletLibrary\lut\0\i\BilletLibrary\Debug\netcoreapp2.1\BilletLibrary.dll
