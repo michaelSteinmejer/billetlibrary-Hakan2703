@@ -5,17 +5,15 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace BilletLibrary.Test
 {
-
     [TestClass]
-    public class MCTest
+    public class TestOfDiscount
     {
         [TestMethod]
-        public void TestMCPrice()
+        public void TestBroBizz()
         {
 
             //Arrange
             Mc Biker = new Mc();
-            Biker.BroBizz = true;
 
 
             //Act

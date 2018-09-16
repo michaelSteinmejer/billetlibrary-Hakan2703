@@ -24,20 +24,25 @@ namespace BilletLibrary
 
         public decimal Pris { get; set; }
         public DateTime Dato { get; set; }
+        public bool BroBizz { get; set; }
 
         private const int MaxLength = 7;
          
+        
    
  
         public virtual decimal Price()
         {
+            if ( BroBizz == true)
+            {
+                Pris = Pris * 105 / 100;
+
+            }
             return Pris;
         }
 
-        public virtual string VehicleType()
-        {
-            return "Vehicle";
-        }
+        public virtual string VehicleType() => "Vehicle";
 
+         
     }
 }

@@ -12,6 +12,9 @@ namespace BilletLibrary
             
         }
 
+        
+
+
         public override decimal Price()
         {
             return 125;
