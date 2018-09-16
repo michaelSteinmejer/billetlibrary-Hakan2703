@@ -2,7 +2,7 @@
 
 namespace BilletLibrary
 {
-    public class Car
+    public class Car : Vehicle
     {
         /// <summary>
         /// This is a class of a car that we need in order to have a price for this kind og vehicle in our ticket sistem
@@ -12,17 +12,14 @@ namespace BilletLibrary
             
         }
 
-        public string Nummerplade { get; set; }
-        public DateTime Dato { get; set; }
-
-        public decimal Price()
+        public override decimal Price()
         {
             return 240;
         }
 
-        public string Vehicle()
+        public override string VehicleType()
         {
-            return "Car";
+            return "Bil";
         }
 
 

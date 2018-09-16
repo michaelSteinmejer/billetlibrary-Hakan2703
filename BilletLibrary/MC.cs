@@ -4,7 +4,7 @@ using System.Text;
 
 namespace BilletLibrary
 {
-    public class Mc
+    public class Mc : Vehicle
     {
 
         public Mc()
@@ -12,16 +12,12 @@ namespace BilletLibrary
             
         }
 
-
-        public string Nummerplade { get; set; }
-        public DateTime dato { get; set; }
-
-        public decimal Price()
+        public override decimal Price()
         {
             return 125;
         }
 
-        public string vehicle()
+        public override string VehicleType()
         {
             return "MC";
         }

@@ -6,3 +6,4 @@ C:\Users\Hakan\source\repos\Program\BilletLibrary\BilletLibrary\obj\Debug\netcor
 C:\Users\Hakan\source\repos\Program\BilletLibrary\BilletLibrary\obj\Debug\netcoreapp2.1\BilletLibrary.AssemblyInfo.cs
 C:\Users\Hakan\source\repos\Program\BilletLibrary\BilletLibrary\obj\Debug\netcoreapp2.1\BilletLibrary.dll
 C:\Users\Hakan\source\repos\Program\BilletLibrary\BilletLibrary\obj\Debug\netcoreapp2.1\BilletLibrary.pdb
+C:\Users\Hakan\source\repos\Program\BilletLibrary\BilletLibrary\obj\Debug\netcoreapp2.1\BilletLibrary.csprojAssemblyReference.cache
