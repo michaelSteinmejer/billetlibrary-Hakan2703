@@ -1,0 +1,17 @@
+C:\Users\Hakan\source\repos\Program\BilletLibrary\BilletLibrary.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Hakan\source\repos\Program\BilletLibrary\BilletLibrary.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Hakan\source\repos\Program\BilletLibrary\BilletLibrary.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Hakan\source\repos\Program\BilletLibrary\BilletLibrary.Test\bin\Debug\netcoreapp2.1\BilletLibrary.Test.deps.json
+C:\Users\Hakan\source\repos\Program\BilletLibrary\BilletLibrary.Test\bin\Debug\netcoreapp2.1\BilletLibrary.Test.runtimeconfig.json
+C:\Users\Hakan\source\repos\Program\BilletLibrary\BilletLibrary.Test\bin\Debug\netcoreapp2.1\BilletLibrary.Test.runtimeconfig.dev.json
+C:\Users\Hakan\source\repos\Program\BilletLibrary\BilletLibrary.Test\bin\Debug\netcoreapp2.1\BilletLibrary.Test.dll
+C:\Users\Hakan\source\repos\Program\BilletLibrary\BilletLibrary.Test\bin\Debug\netcoreapp2.1\BilletLibrary.Test.pdb
+C:\Users\Hakan\source\repos\Program\BilletLibrary\BilletLibrary.Test\bin\Debug\netcoreapp2.1\BilletLibrary.dll
+C:\Users\Hakan\source\repos\Program\BilletLibrary\BilletLibrary.Test\bin\Debug\netcoreapp2.1\BilletLibrary.pdb
+C:\Users\Hakan\source\repos\Program\BilletLibrary\BilletLibrary.Test\obj\Debug\netcoreapp2.1\BilletLibrary.Test.csprojAssemblyReference.cache
+C:\Users\Hakan\source\repos\Program\BilletLibrary\BilletLibrary.Test\obj\Debug\netcoreapp2.1\BilletLibrary.Test.csproj.CoreCompileInputs.cache
+C:\Users\Hakan\source\repos\Program\BilletLibrary\BilletLibrary.Test\obj\Debug\netcoreapp2.1\BilletLibrary.Test.AssemblyInfoInputs.cache
+C:\Users\Hakan\source\repos\Program\BilletLibrary\BilletLibrary.Test\obj\Debug\netcoreapp2.1\BilletLibrary.Test.AssemblyInfo.cs
+C:\Users\Hakan\source\repos\Program\BilletLibrary\BilletLibrary.Test\obj\Debug\netcoreapp2.1\BilletLibrary.Test.csproj.CopyComplete
+C:\Users\Hakan\source\repos\Program\BilletLibrary\BilletLibrary.Test\obj\Debug\netcoreapp2.1\BilletLibrary.Test.dll
+C:\Users\Hakan\source\repos\Program\BilletLibrary\BilletLibrary.Test\obj\Debug\netcoreapp2.1\BilletLibrary.Test.pdb
