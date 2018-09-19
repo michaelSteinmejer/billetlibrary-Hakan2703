@@ -681,23 +681,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Hakan\\.nuget\\packages\\": {},
+    "C:\\Users\\Michael Steinmejer\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hakan\\source\\repos\\Program\\BilletLibrary\\BilletLibrary\\BilletLibrary.csproj",
+      "projectUniqueName": "C:\\source\\hakan\\billetlibrary-Hakan2703\\BilletLibrary\\BilletLibrary.csproj",
       "projectName": "BilletLibrary",
-      "projectPath": "C:\\Users\\Hakan\\source\\repos\\Program\\BilletLibrary\\BilletLibrary\\BilletLibrary.csproj",
-      "packagesPath": "C:\\Users\\Hakan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hakan\\source\\repos\\Program\\BilletLibrary\\BilletLibrary\\obj\\",
+      "projectPath": "C:\\source\\hakan\\billetlibrary-Hakan2703\\BilletLibrary\\BilletLibrary.csproj",
+      "packagesPath": "C:\\Users\\Michael Steinmejer\\.nuget\\packages\\",
+      "outputPath": "C:\\source\\hakan\\billetlibrary-Hakan2703\\BilletLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Hakan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Michael Steinmejer\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

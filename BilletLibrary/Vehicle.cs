@@ -40,7 +40,10 @@ namespace BilletLibrary
             }
             return Pris;
         }
-
+        /// <summary>
+        /// Dette er en virtual metode der kan overskrives, husk at kommentere din kode
+        /// </summary>
+        /// <returns></returns>
         public virtual string VehicleType() => "Vehicle";
 
          
